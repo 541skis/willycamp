@@ -96,7 +96,6 @@ a {
 }
 
 .button-icon {
-  display: inline-block;
   margin-right: -0.4em;
   margin-bottom: -0.4em;
 }
@@ -283,6 +282,17 @@ a {
   .coach-text {
     text-align: left;
   }
+}
+
+#w-node-_3803f832-9fcf-09c1-038d-6aac396256cc-2e4d7f51 {
+  -ms-grid-column: span 1;
+  grid-column-start: span 1;
+  -ms-grid-column-span: 1;
+  grid-column-end: span 1;
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
 }
 
 #w-node-_0e1b331b-c16c-d4ea-9bf8-3a943f1dc231-2e4d7f51 {
